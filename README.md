@@ -1,6 +1,9 @@
 # Volans
 ## Descrição:
-Bem-vindo ao **Volans**, inspirado na famosa plataforma de aprendizado chamado **Duolingo**, uma plataforma inteligente de repetição espaçada projetada para impulsionar sua memória de longo prazo e tornar o aprendizado mais eficaz do que nunca. Aqui, você encontrará uma abordagem inovadora que utiliza baralhos repletos de cartões de respostas para divertir e transformar sua maneira de estudar.
+O Projeto **Volans** é uma iniciativa inovadora na área da educação, inspirado na  famosa plataforma de aprendizado chamada **Duolingo**, visamos aprimorar o processo de aprendizado por meio da implementação do método de repetição espaçada através de um jogo de baralhos onde contém uma palavra em outra linguá e na outra face da carta sua tradução. Com o objetivo de otimizar a retenção de informações e promover uma aprendizagem mais eficaz e duradoura, o Volans utiliza técnicas de espaçamento temporal entre as revisões de conteúdo onde você irá aprender e se divertir.
+
+
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ## Pré-requisitos: 
  - linguagem: HTML, CSS
  - Bibliotecas: nenhuma utilizada até o momento
