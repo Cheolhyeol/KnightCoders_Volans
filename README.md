@@ -1,11 +1,10 @@
 # Volans
 
-![WhatsApp Image 2024-03-19 at 19 55 36](https://github.com/Cheolhyeol/KnightCoders_Volans/assets/163934121/04b37a4b-f064-48ca-acd9-bb8baf727510)
-<logopic src="[https://github.com/Cheolhyeol/KnightCoders_Volans/assets/163934121/04b37a4b-f064-48ca-acd9-bb8baf727510]" width="300px">
 
 
 
-<img src="https://github.com/Cheolhyeol/KnightCoders_Volans/assets/163934121/04b37a4b-f064-48ca-acd9-bb8baf727510" width="300px" />
+
+<img src="https://github.com/Cheolhyeol/KnightCoders_Volans/assets/163934121/04b37a4b-f064-48ca-acd9-bb8baf727510" width="250px" />
  
 ## Descrição:
 O Projeto **Volans** é uma iniciativa inovadora na área da educação, inspirado na  famosa plataforma de aprendizado chamada **Duolingo**, visamos aprimorar o processo de aprendizado por meio da implementação do método de repetição espaçada através de um jogo de baralhos onde contém uma palavra em outra linguá e na outra face da carta sua tradução. Com o objetivo de otimizar a retenção de informações e promover uma aprendizagem mais eficaz e duradoura, o Volans utiliza técnicas de espaçamento temporal entre as revisões de conteúdo onde você irá aprender e se divertir.
