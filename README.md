@@ -15,7 +15,7 @@ dasdad
    - 1.0.0: Versão inicial
   
 ## Autor(es):
-   - Carlos Eduardo
+   - Carlos Eduardo Duarte Torres
      - E-mail: carloseduardodt16@gmail.com
      - RA: 235018
    - Otavio
