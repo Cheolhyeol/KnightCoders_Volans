@@ -7,10 +7,11 @@
 <img src="https://github.com/Cheolhyeol/KnightCoders_Volans/assets/163934121/04b37a4b-f064-48ca-acd9-bb8baf727510" width="250px" />
  
 ## Descrição:
-O Projeto **Volans** é uma iniciativa inovadora na área da educação, inspirado na  famosa plataforma de aprendizado chamada **Duolingo**, visamos aprimorar o processo de aprendizado por meio da implementação do método de repetição espaçada através de um jogo de baralhos onde contém uma palavra em outra linguá e na outra face da carta sua tradução. Com o objetivo de otimizar a retenção de informações e promover uma aprendizagem mais eficaz e duradoura, o Volans utiliza técnicas de espaçamento temporal entre as revisões de conteúdo onde você irá aprender e se divertir.
+O Projeto **Volans** é uma iniciativa inovadora na área da educação, inspirado nas famosa plataforma de aprendizado chamadas **Duolingo** e **Anki**, visamos aprimorar o processo de aprendizado por meio da implementação do método de repetição espaçada através de um jogo de baralhos onde contém uma palavra em outra língua e no outro lado da carta sua tradução. Com o objetivo de otimizar a retenção de informações e promover uma aprendizagem mais eficaz e duradoura, o Volans utiliza técnicas de espaçamento temporal entre as revisões de conteúdo onde você irá aprender e se divertir.
+
+<img src="https://github.com/Cheolhyeol/KnightCoders_Volans/assets/163934121/2a6acd91-df4c-4022-84b7-080e9dbb659d" width="30px" /> ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ## Pré-requisitos: 
  - linguagem: HTML, CSS
  - Bibliotecas: nenhuma utilizada até o momento
@@ -28,17 +29,19 @@ dasdad
    - Carlos Eduardo Duarte Torres
      - E-mail: carloseduardodt16@gmail.com
      - RA: 235018
-   - Otavio Vitalino Apolonio
-     - E-mail: otavioapolonio@gmail.com
-     - RA: 235934
-   - Mateus Enrique Silva Pezzoni
-     - E-mail: mateus.pezzoni05@gmail.com
-     - RA: 235887
    - Kayke Denelle da Silva
      - E-mail: Kaykedenelle@gmail.com
      - RA: 235054
    - Leonardo de Lima Sousa
      - E-mail: leonardodelimasousa505@gmail.com
-     - RA: 235103 
+     - RA: 235103
+   - Mateus Enrique Silva Pezzoni
+     - E-mail: mateus.pezzoni05@gmail.com
+     - RA: 235887
+   - Otavio Vitalino Apolonio
+     - E-mail: otavioapolonio@gmail.com
+     - RA: 235934
+   
+   
     
       
