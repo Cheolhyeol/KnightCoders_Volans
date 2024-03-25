@@ -13,8 +13,8 @@ O Projeto **Volans** é uma iniciativa inovadora na área da educação, inspira
 
 
 ## Pré-requisitos: 
- - linguagem: HTML, CSS
- - Bibliotecas: nenhuma utilizada até o momento
+ - linguagem: HTML, CSS.
+ - Bibliotecas: nenhuma utilizada até o momento.
  - IDE: Recomenda-se o uso do Visual Studio Code ou qualquer outra IDE de sua preferência compatível com HTML.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -23,7 +23,7 @@ ainda não está pronto
 ## Implantações:
 sdadas
 ## Versionamento:
-   - 1.0.0: Versão inicial
+   - 1.0.0: Versão inicial.
   
 ## Autor(es):
    - Carlos Eduardo Duarte Torres
