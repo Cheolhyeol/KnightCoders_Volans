@@ -19,9 +19,18 @@ O Projeto **Volans** é uma iniciativa inovadora na área da educação, inspira
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ## Estrutura do Projeto:
-ainda não está pronto
+**Usuário**: criarConta(): usado para criar uma conta nova na plataforma; editarConta(): usado para editar uma conta já registrada na plataforma; deletarConta(): usado para excluir uma conta da plataforma; entrarSistema(): acessa as funcionalidades do sistema. 
+
+**Baralho**: criarBaralho(): cria um Baralho; editarBaralho(): edita um Baralho já criado; deletarBaralho(): deleta um baralho; acessarBaralho: acessa um baralho; armazenarCartas(): armazena as cartas; embaralharCarta(): embaralha as cartas.
+
+**Carta**: criarCarta(): cria uma carta; editarCarta(): edita uma carta já criada; deletarCarta(): deleta uma carta; acessarCarta(): acessa uma carta; frentePergunta(): armazena a parte da frente da carta; versoPergunta(): armazena a parte do verso da carta.
+
+**SessãoEstudo**: criarSessão(): cria uma sessão; entrarSessão(): entra em uma sessão já criada; dificuldadePerguntas(): controla a dificuldade das perguntas@; revisãoResposta(): armazena as respostas da revisão.
+
+**NotificaçãoEmail**: criarNotificação(): cria uma notificação; enviarNotificação(): envia a notificação criada para o e-mail.
+
 ## Implantações:
-sdadas
+Em andamento.
 ## Versionamento:
    - 1.0.0: Versão inicial.
   
