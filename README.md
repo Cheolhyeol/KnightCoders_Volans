@@ -25,9 +25,9 @@ O Projeto **Volans** é uma iniciativa inovadora na área da educação, inspira
 
 **Baralho**: criarBaralho(): cria um Baralho; editarBaralho(): edita um Baralho já criado; deletarBaralho(): deleta um baralho; acessarBaralho: acessa um baralho; armazenarCartas(): armazena as cartas; embaralharCarta(): embaralha as cartas.
 
-**Carta**: criarCarta(): cria uma carta; editarCarta(): edita uma carta já criada; deletarCarta(): deleta uma carta; acessarCarta(): acessa uma carta; frentePergunta(): armazena a parte da frente da carta; versoPergunta(): armazena a parte do verso da carta.
+**Carta**: criarCarta(): cria uma carta; editarCarta(): edita uma carta já criada; deletarCarta(): deleta uma carta; acessarCarta(): acessa uma carta; frentePergunta(): armazena a parte da frente das cartas; versoPergunta(): armazena a parte do verso das cartas.
 
-**SessãoEstudo**: criarSessão(): cria uma sessão; entrarSessão(): entra em uma sessão já criada; dificuldadePerguntas(): controla a dificuldade das perguntas@; revisãoResposta(): armazena as respostas da revisão.
+**SessãoEstudo**: criarSessão(): cria uma sessão; entrarSessão(): entra em uma sessão já criada; dificuldadePerguntas(): recebe o nível de dificuldade de uma carta; revisãoResposta(): armazena as respostas da revisão.
 
 **NotificaçãoEmail**: criarNotificação(): cria uma notificação; enviarNotificação(): envia a notificação criada para o e-mail.
 
