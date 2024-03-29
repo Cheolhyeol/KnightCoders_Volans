@@ -31,6 +31,8 @@ O Projeto **Volans** é uma iniciativa na área da educação, inspirado nas fam
 
 **NotificaçãoEmail**: criarNotificação(): cria uma notificação; enviarNotificação(): envia a notificação criada para o e-mail.
 
+**Administrador**: DisponibilizarBaralhos(): Disponibiliza os baralhos para o usuário.
+
 ## Implantações:
 Em andamento.
 ## Versionamento:
